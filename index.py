@@ -12,16 +12,30 @@ db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
 app = Flask(__name__)
 app.json.sort_keys = False
 CORS(app)
-def execute_query(query):
-    conn = sqlite3.connect(db_file)
-    if not conn:
-        raise Exception("Connection not established. Call connect() method first.")
+# def execute_query(query):
+#     conn = sqlite3.connect(db_file)
+#     if not conn:
+#         raise Exception("Connection not established. Call connect() method first.")
     
-    cursor = conn.cursor()
-    cursor.execute(query)
-    result_set = cursor.fetchall()
-    conn.close()
-    return result_set
+#     cursor = conn.cursor()
+#     cursor.execute(query)
+#     result_set = cursor.fetchall()
+#     conn.close()
+#     return result_set
+def execute_query(query):
+    try:
+        conn = sqlite3.connect(db_file)
+        cursor = conn.cursor()
+        cursor.execute(query)
+        result_set = cursor.fetchall()
+        conn.close()
+        return result_set
+    except Exception as e:
+        print(f"Error executing query: {e}")
+        return []
+
+
+
 
 @app.route("/start_quize", methods=['GET','POST'])
 def start_quize():
@@ -229,5 +243,5 @@ def get_genre_subgenre_plottype():
 
 
 if __name__ == '__main__':
-    db_file = r"D:\Senzoo\senzo-frontend\SenzoQuizAppDB20feb2024"
+    db_file
     app.run(debug=True)
