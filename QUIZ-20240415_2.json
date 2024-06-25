@@ -1,0 +1,2524 @@
+{
+  "action": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "superheroes": [
+            {
+              "Would you like a movie to feature?": [
+                "origin story",
+                "team up"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "hero vs. villain",
+                "anti hero"
+              ]
+            }
+          ]
+        },
+        {
+          "martial arts": [
+            {
+              "Would you like a movie to feature?": [
+                "underdog story",
+                "revenge"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "traditional martial arts training and journey",
+                "martial arts tournament"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "on the move": [
+            {
+              "Would you like a movie to feature?": [
+                "escape",
+                "chase"
+              ]
+            }
+          ]
+        },
+        {
+          "racing": [
+            {
+              "Would you like a movie to feature?": [
+                "street racing",
+                "championship racing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "samurai": [
+            {
+              "Would you like a movie to feature?": [
+                "ronin warriors",
+                "revenge and redemption"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "epic battles and feuds",
+                "historical retellings"
+              ]
+            }
+          ]
+        },
+        {
+          "swashbuckler": [
+            {
+              "Would you like a movie to feature?": [
+                "pirates and high seas",
+                "sworn rivals and duels"
+              ]
+            }
+          ]
+        },
+        {
+          "ancient/medieval times": [
+            {
+              "Would you like a movie to feature?": [
+                "gladiator battles",
+                "medieval knights"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "roman military campaign",
+                "barbars and wild people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "post apocalyptic": [
+            {
+              "Would you like a movie to feature?": [
+                "dystopian societies",
+                "post nuclear war"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "survivors in a desolate world",
+                "action packed quests for redemption or salvation"
+              ]
+            }
+          ]
+        },
+        {
+          "disaster": [
+            {
+              "Would you like a movie to feature?": [
+                "natural disasters",
+                "supernatural disasters"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "technological disasters",
+                "space disasters"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "one person army action": [
+            {
+              "Would you like a movie to feature?": [
+                "revenge driven protagonist",
+                "vigilante justice"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "rogue agent or operative",
+                "survival and escape"
+              ]
+            }
+          ]
+        },
+        {
+          "espionage": [
+            {
+              "Would you like a movie to feature?": [
+                "unglamorized spy film",
+                "glamorized spy film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "jungle/safari": [
+            {
+              "Would you like a movie to feature?": [
+                "lost or hidden treasures",
+                "exploration and discovery"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "survival in the wilderness",
+                "tribal cultures and indigenous people"
+              ]
+            }
+          ]
+        },
+        {
+          "sea": [
+            {
+              "Would you like a movie to feature?": [
+                "lost or hidden treasures",
+                "exploration and discovery"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "dinosaur": [
+            {
+              "Would you like a movie to feature?": [
+                "paleontological expeditions",
+                "dinosaur theme parks gone wrong"
+              ]
+            }
+          ]
+        },
+        {
+          "survival": [
+            {
+              "Would you like a movie to feature?": [
+                "survival in hostile environments",
+                "plane crashes and survival"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "quest": [
+            {
+              "Would you like a movie to feature?": [
+                "treasure hunts and artifacts",
+                "quest for knowledge or enlightenment"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "heroic journeys and prophecies",
+                "chosen ones and destiny"
+              ]
+            }
+          ]
+        },
+        {
+          "expeditions": [
+            {
+              "Would you like a movie to feature?": [
+                "archaeological expeditions",
+                "scientific expeditions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "How about a movie from Space and interstellar environment?": [
+        
+        {
+          "space": [
+            {
+              "Would you like a movie to feature?": [
+                "alien encounters",
+                "allien hostiles"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "interstellar exploration",
+                "colonization of new planet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Comedy": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "buddy comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "odd couple pairing",
+                "unfamiliar environments"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "secret mission",
+                "misadventures and road trip"
+              ]
+            }
+          ]
+        },
+        {
+          "comic criminals": [
+            {
+              "Does one of the themes interest you?": [
+                "heists gone wrong",
+                "unconventional criminals",
+                "con artists and scams"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "social class comedies": [
+            {
+              "Would you like a movie to feature?": [
+                "role reversal",
+                "family dynamics and inheritance"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "love across class boundaries",
+                "social climbing and pretense"
+              ]
+            }
+          ]
+        },
+        {
+          "fish out of water comedies": [
+            {
+              "Would you like a movie to feature?": [
+                "culture clash",
+                "small town or rural setting"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "a different time period",
+                "social class disparity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "body swap comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "gender swap",
+                "role reversal"
+              ]
+            }
+          ]
+        },
+        {
+          "farce": [
+            {
+              "Would you like a movie to feature?": [
+                "mistaken identities",
+                "farcical misunderstandings"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "gross out comedies": [
+            {
+              "Would you like a movie to feature?": [
+                "college/teenage shenanigans",
+                "pranks and outrageous antics"
+              ]
+            }
+          ]
+        },
+        {
+          "sex comedies": [
+            {
+              "Would you like a movie to feature?": [
+                "coming of age sex comedies",
+                "college party sex comedies"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a family comedy movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "family celebrations and events",
+                "generation gap humor"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "mischievous children",
+                "siblings rivalry and cooperation"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "family vacation gone wrong",
+                "mismatched travel companions"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "parent-child role reversal",
+                "parenting challenges"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a black humour comedy movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie showcasing absurd situations with dark undertones?": [
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "Would you like a black humour comedy featuring satire of societal issues?": [
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "Would you like a black humour comedy featuring morally ambiguous characters?": [
+                "Yes",
+                "No"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie featuring a comedy from growing-up?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "high school experiences",
+                "lifes challanges and milestones"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "stoner comedies": [
+            {
+              "Would you like a movie to feature?": [
+                "stoner buddies",
+                "cannabis themed adventures"
+              ]
+            }
+          ]
+        },
+        {
+          "road trip comedies": [
+            {
+              "Does one of the themes interest you?": [
+                "buddy reunion road trip",
+                "mismatched travel buddies",
+                "quest for a specific destination"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a funny mockumentary?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "music and bands",
+                "sports and competitions"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "social and cultural commentary",
+                "workplace and office life"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "satire": [
+            {
+              "Would you like a movie to feature?": [
+                "showbiz and celebrity lifestyle satire",
+                "political satire"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "social media and internet culture parody",
+                "tech industry satire"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "fashion industry ridicule",
+                "gender role satire"
+              ]
+            }
+          ]
+        },
+        {
+          "parody": [
+            {
+              "Would you like a movie to feature?": [
+                "genre parodies",
+                "historical revisionism parody"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "celebrity and pop culture parodies",
+                "superhero parody"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a funny mockumentary?": [
+        {
+          "police comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "buddy cop films",
+                "undercover cop comedies"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "police workplace comedies",
+                "police spoofs"
+              ]
+            }
+          ]
+        },
+        {
+          "military comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "basic training comedies",
+                "war comedy"
+              ]
+            }
+          ]
+        },
+        {
+          "medical comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "doctor centric comedies",
+                "patient centric comedies"
+              ]
+            }
+          ]
+        },
+        {
+          "workplace comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "office politics and rivalries",
+                "incompetent or clueless management"
+              ]
+            }
+          ]
+        },
+        {
+          "courtroom comedy": [
+            {
+              "Would you like a movie to feature?": [
+                "bumbling lawyer",
+                "absurd or unusual cases"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "crime": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "gangster": [
+            {
+              "Would you like a movie to feature?": [
+                "criminal underground",
+                "drug trafficking"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "rival gangs and turf wars",
+                "law enforcement vs. gangsters"
+              ]
+            }
+          ]
+        },
+        {
+          "mafia": [
+            {
+              "Would you like a movie to feature?": [
+                "mafia families and power struggles",
+                "family dynamics"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "undercover infiltration",
+                "rise and fall"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "detective": [
+            {
+              "Would you like a movie to feature?": [
+                "hard boiled detective",
+                "private investigator"
+              ]
+            }
+          ]
+        },
+        {
+          "buddy cop": [
+            {
+              "Would you like a movie to feature?": [
+                "undercover operation",
+                "odd couple"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "race against time",
+                "unlikely alliance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "heist": [
+            {
+              "Would you like a movie to feature?": [
+                "elaborate heists and intricate planning",
+                "unpredictable twists and double crosses"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "unconventional heists and unusual targets",
+                "classical heist(banks, casino, vault)"
+              ]
+            }
+          ]
+        },
+        {
+          "caper": [
+            {
+              "Would you like a movie to feature?": [
+                "unlikely partnerships",
+                "professional criminals and specialized roles"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "serial killer": [
+            {
+              "Would you like a movie to feature?": [
+                "cat and mouse chase",
+                "unsolved mysteries"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "profilers and criminal profiling",
+                "investigation and forensic analysis"
+              ]
+            }
+          ]
+        },
+        {
+          "crime noir": [
+            {
+              "Would you like a movie to feature?": [
+                "corruption in the police ranks",
+                "wrongly accused protagonist"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "mob underworld",
+                "heist gone wrong"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "neo-noir",
+                "femme fatale"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "who dun its": [
+            {
+              "Would you like a movie to feature?": [
+                "murder mysteries and detective protagonists",
+                "amateur sleuths and unlikely investigators"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "puzzle solving and clues",
+                "twist endings and surprise revelations"
+              ]
+            }
+          ]
+        },
+        {
+          "murder mystery": [
+            {
+              "Would you like a movie to feature?": [
+                "cold case murder mystery",
+                "complex murder mystery"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a crime movie based on real crime story?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "historical crimes",
+                "murderers and serial killers"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "law enforcement investigation",
+                "famous trials and legal cases"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a crime movie from a prison environment?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "prison breakout",
+                "life in prison"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "wrongfully accused and seeking justice",
+                "undercover agent infiltrating the prison"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "drama": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "addiction": [
+            {
+              "Would you like an addiction drama about one of these themes?": [
+                "road to recovery",
+                "redemption and second chances",
+                "portrait of addiction"
+              ]
+            }
+          ]
+        },
+        {
+          "prostitution": [
+            {
+              "Would you like a movie to feature?": [
+                "personal journeys",
+                "exploitation and empowerment"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "societal and legal issues",
+                "redemption and escape"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "thought provoking movies with strong message": [
+            {
+              "Would you like a movie to feature?": [
+                "racial or cultural discrimination",
+                "human rights and social issues"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "seeking the good in others",
+                "life inspiring story"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "exploring philosophical themes",
+                "redemption and second chances"
+              ]
+            }
+          ]
+        },
+        {
+          "holocaust story": [
+            {
+              "Would you like a movie to feature?": [
+                "survival and resistance",
+                "rescue and helping jews during holocaust"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "reunion": [
+            {
+              "Would you like a movie to feature?": [
+                "military reunion",
+                "class reunion"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "lost love reunion",
+                "family reunion"
+              ]
+            }
+          ]
+        },
+        {
+          "female friendship": [
+            {
+              "Would you like a movie to feature?": [
+                "coming of age and bonding",
+                "challenging societal norms and expectations"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "rekindling old friendships",
+                "support in times of crisis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "social problems": [
+            {
+              "Would you like a movie to feature?": [
+                "discrimination and prejudice",
+                "poverty and inequality"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "immigration challenges",
+                "human trafficking"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "problems with the way society lives today",
+                "educational disparities and youth empowerment"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "community struggles for equality",
+                "environmental activism and ecological crisis"
+              ]
+            }
+          ]
+        },
+        {
+          "interracial themes": [
+            {
+              "Would you like a movie to feature?": [
+                "racial tensions and conflict",
+                "racial integration and acceptance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "biopic": [
+            {
+              "Would you like a movie to feature?": [
+                "rise to fame",
+                "overcoming challenges"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "creative genius",
+                "sports legends"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "rags to riches",
+                "political figures and leadership"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "slice of life",
+                "struggle for recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "docudramas": [
+            {
+              "Would you like a movie to feature?": [
+                "environmental",
+                "social issues"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a drama movie about childhood?": [
+        {
+          "childhood": [
+            {
+              "Would you like a movie to feature?": [
+                "family dynamics",
+                "friendship and adventure"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "loss and resilience",
+                "innocence and wonder"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "rural drama": [
+            {
+              "Would you like a movie to feature?": [
+                "small town struggles",
+                "community bonds and relationships"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "farm life and agriculture",
+                "generational conflict"
+              ]
+            }
+          ]
+        },
+        {
+          "americana": [
+            {
+              "Would you like a movie to feature?": [
+                "small town life",
+                "western frontier"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "family dynamics",
+                "road trip"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a high school drama?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "social hierarchy and cliques",
+                "bullying and teenage angst"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a political drama?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "elections and campaigns",
+                "rise to power"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "political scandals and intrigue",
+                "diplomatic relations and international conflicts"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "war-time leadership",
+                "historical political event"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a drama movie showing life with a disease/disability?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "physical disabilities and rehabilitation",
+                "mental health and psychological disorders"
+              ]
+            },
+            {
+              "Would you like a movie featuring a terminal illness?": [
+                "Yes",
+                "No"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a drama movie about sports and sportmanship?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "underdog triumphs against all odds",
+                "rivalry and intense competition"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "coach redemption and mentorship",
+                "athletes journey to overcome personal demons"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a drama with lgbtq+ themes?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "coming out and self-discovery",
+                "family acceptance and reconciliation"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "intersectionality and identity",
+                "forbidden love and societys constraints"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a family drama movie featuring family conflicts and dynamics?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "long-distance relationship",
+                "infidelity struggles"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "career vs marriage",
+                "midlife crisis"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "family reconciliation",
+                "family secrets and revelations"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "parent-child relationship struggles",
+                "sibling rivalry and relationships"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a drama featuring life in prison and prison environment?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "prison breakout",
+                "wrongfully accused and seeking justice"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "undercover agent infiltrating the prison",
+                "life in prison"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a drama movie featuring soldiers life and struggles?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "fictional story of soldier life",
+                "soldiers life based on real person"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "family/animation": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "animal picture": [
+            {
+              "Would you like a movie to feature?": [
+                "friendship and unity",
+                "journey and quest"
+              ]
+            }
+          ]
+        },
+        {
+          "friendship themes": [
+            {
+              "Would you like a movie to feature?": [
+                "odd couple pairing",
+                "dimension hopping friends"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "quest for a lost friend",
+                "animal companionship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "fairy tales and fantasy": [
+            {
+              "Would you like a movie to feature?": [
+                "rescue the magical being",
+                "children heroes journey"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "wish fulfillment",
+                "classical folklore fairytale"
+              ]
+            }
+          ]
+        },
+        {
+          "childrens fantasy world": [
+            {
+              "Would you like a movie to feature?": [
+                "toys come to life",
+                "magical realms and enchanted worlds"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "chosen ones and prophecies",
+                "friendship and teamwork"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like family/animated movie featuring a coming of age hero?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "parallel worlds exploration",
+                "dreamworld exploration"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "magical friendship bonds",
+                "quest for identity"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like an anime?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "shonen",
+                "shojo"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "mecha",
+                "fantasy"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "fantasy": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "mythological fantasy": [
+            {
+              "Would you like a movie to feature?": [
+                "gods and mythical beings",
+                "heroic quests and prophecies"
+              ]
+            }
+          ]
+        },
+        {
+          "fairy tale fantasy": [
+            {
+              "Would you like a movie to feature?": [
+                "magical realms and enchanted forests",
+                "fairy tale retellings"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "quest for true love",
+                "transformation and metamorphosi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "steampunk fantasy": [
+            {
+              "Would you like a movie to feature?": [
+                "resistance against oppressive regime",
+                "clash of steampunk factions"
+              ]
+            }
+          ]
+        },
+        {
+          "dark/gothic fantasy": [
+            {
+              "Would you like a movie to feature?": [
+                "supernatural creatures and dark magic",
+                "heroes journey into darkness"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a fantasy movie with a teenage hero?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "boarding school or academy",
+                "coming of age journey"
+              ]
+            }
+          ]
+        },
+        {
+          "No": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a fantasy movie set in our modern times?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "hidden magical world",
+                "magic in everyday life"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "quests or missions in the modern world",
+                "contemporary magic schools"
+              ]
+            }
+          ]
+        },
+        {
+          "No": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a sword and sorcery fantasy movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "heroic warriors and swordplay",
+                "magical powers and sorcery"
+              ]
+            }
+          ]
+        },
+        {
+          "No": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a epic fantasy movie including spectacular battles and heroic journeys?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "heros journey",
+                "band of heroes"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "quest for a magical artifact",
+                "magical realms and creatures"
+              ]
+            },
+            {
+              "Would you like a movie featuring a dark lord rising and the hero stopping him?": [
+                "Yes",
+                "No"
+              ]
+            }
+          ]
+        },
+        {
+          "No": [
+            {}
+          ]
+        }
+      ]
+    }
+  ],
+  "history/war": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "tactical combat action": [
+            {
+              "Would you like a movie to feature?": [
+                "military unit or squads journey",
+                "special forces mission"
+              ]
+            }
+          ]
+        },
+        {
+          "war biopic": [
+            {
+              "Would you like a movie to feature?": [
+                "heroic military leader or commander",
+                "soldiers personal struggle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "historicical period movie": [
+            {
+              "Would you like a movie to feature?": [
+                "napoleonic",
+                "british empire"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "ancient history",
+                "medieval history"
+              ]
+            }
+          ]
+        },
+        {
+          "historical war films": [
+            {
+              "Would you like a movie to feature?": [
+                "world war",
+                "cold war"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "ancient/medieval times",
+                "early modern era"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like an alternative war movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "resistance",
+                "anti war",
+                "prisoner of war"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature naval/aerial warfare?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "aerial dogfights and fighter pilots",
+                "submarine warfare",
+                "naval battle of strategy and tactics"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "horror": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "haunted house": [
+            {
+              "Would you like a movie to feature?": [
+                "family moves into a haunted house",
+                "investigation by paranormal experts"
+              ]
+            }
+          ]
+        },
+        {
+          "found footage": [
+            {
+              "Would you like a movie to feature?": [
+                "paranormal investigation",
+                "unexplained phenomena"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "slasher": [
+            {
+              "Would you like a movie to feature?": [
+                "revenge driven killers",
+                "urban legend"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "high school slashers",
+                "campground murders"
+              ]
+            }
+          ]
+        },
+        {
+          "serial killers": [
+            {
+              "Would you like a movie to feature?": [
+                "the killers point of view",
+                "escaping a serial killer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Do you want any of these mosteres to be featured in the movie": [
+        {
+          "vampires": [
+            {
+              "Would you like a movie to feature?": [
+                "vampire origins and lore",
+                "vampire apocalypse"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "vampire hunters",
+                "vampire seduction"
+              ]
+            }
+          ]
+        },
+        {
+          "witchcraft": [
+            {
+              "Would you like a movie to feature?": [
+                "witch hunters",
+                "escaping witches"
+              ]
+            }
+          ]
+        },
+        {
+          "werewolves": [
+            {
+              "Would you like a movie to feature?": [
+                "werewolf curse",
+                "werewolf hunting"
+              ]
+            }
+          ]
+        },
+        {
+          "zombies": [
+            {
+              "Would you like a movie to feature?": [
+                "zombie outbreak survival",
+                "zombie apocalypse world building",
+                "zombie comed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "satanic cults": [
+            {
+              "Would you like a movie to feature?": [
+                "satanic cult",
+                "demonic possession",
+                "occult artifacts"
+              ]
+            }
+          ]
+        },
+        {
+          "cannibalism": [
+            {
+              "Would you like a movie to feature?": [
+                "stumble across cannibals", 
+                "trying to escape",
+                "cannibalistic cults"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a gothic themed horror?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "haunted house",
+                "psychological terror"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a psychological horror movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "inherited curse",
+                "haunted mind"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "devil obsession",
+                "ritual gone wrong"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "supernatural psychological horror",
+                "isolation and paranoia"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a hororr movie featuring the horrors of nature?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "sharks",
+                "forest beast"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "deadly insects",
+                "mutated animals"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a paranormal horror movie?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "ghostly encounters",
+                "supernatural investigation"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "possession",
+                "cursed objects"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "musical": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "broadway show musicals": [
+            {
+              "Would you like a movie to feature?": [
+                "historical events and figures",
+                "rags to riches"
+              ]
+            }
+          ]
+        },
+        {
+          "biographical musical": [
+            {
+              "Would you like a movie to feature?": [
+                "musical icon biopic",
+                "inspirational life story"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "dance musical": [
+            {
+              "Would you like a movie to feature?": [
+                "dance competitions and showcases",
+                "teen musicals"
+              ]
+            }
+          ]
+        },
+        {
+          "love story musicals": [
+            {
+              "Would you like a movie to feature?": [
+                "forbidden love",
+                "historical love story"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "second chance at love",
+                "opposites attract"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like funny comedy musical?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "mistaken identity musical",
+                "fish out of water musical",
+                "screwball comedy musical"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "mystery": [
+    {
+      "Would you like a movie with a bumbling detective solving a mystery?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "accidental detective",
+                "inexperienced or lacking in investigative skills"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie about a hardboiled detective mystery?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "hardboiled detective",
+                "private investigator"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a whodunnit mystery?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "amateur sleuth",
+                "confined or isolated setting where a group of individuals becomes suspects in a murder or crime"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a psychological mystery movie": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "mind games",
+                "identity crisis"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "romantic": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "tearjerker romance": [
+            {
+              "Would you like a movie to feature?": [
+                "second chance romance",
+                "long distance love"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "forbidden love",
+                "love and sacrifice"
+              ]
+            }
+          ]
+        },
+        {
+          "tragic romance": [
+            {
+              "Would you like a movie to feature?": [
+                "war torn romance",
+                "terminal illness romance"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "love triangle",
+                "unrequited love"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "feel good romance": [
+            {
+              "Would you like a movie to feature?": [
+                "unconventional love story",
+                "quirky or unique love story"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "opposites attract",
+                "second chance at love"
+              ]
+            }
+          ]
+        },
+        {
+          "funny romance story": [
+            {
+              "Would you like a movie to feature?": [
+                "mistaken identity",
+                "fake relationship"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "opposites attract",
+                "friends to lovers"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "meet-cute",
+                "second chance at love"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "age gap romance",
+                "love triangle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature a holiday romance?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "christmas romance",
+                "vacation romance"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature a teen romance?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "high school love",
+                "summer love"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "opposites attract",
+                "second chance romance"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie with spicy and erotic romance?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "friends with benefits",
+                "erotic romance"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "love triangle",
+                "passionate affair"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "sci-fi": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "experiment gone wrong": [
+            {
+              "Would you like a movie to feature?": [
+                "genetic experiment escapes containment",
+                "biological experiment unleashes pandemic"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "dimensional rift opens",
+                "teleportation mishap"
+              ]
+            }
+          ]
+        },
+        {
+          "alien invasion": [
+            {
+              "Would you like a movie to feature?": [
+                "resistance against the invaders",
+                "alien assimilation and infiltration",
+                "alien human collaboration"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "space opera": [
+            {
+              "Would you like a movie to feature?": [
+                "galactic conflict",
+                "space opera quest"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "rebellion against the empire",
+                "rise and fall of the empire"
+              ]
+            }
+          ]
+        },
+        {
+          "space exploration": [
+            {
+              "Would you like a movie to feature?": [
+                "interstellar journey",
+                "space station or spaceship drama",
+                "colonization and settlement",
+                "space archaeology"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "robot/ai": [
+            {
+              "Would you like a movie to feature?": [
+                "ai companion and emotional bonding",
+                "humanoid robots quest for identity"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "ai in control of society",
+                "ai takeover the world"
+              ]
+            }
+          ]
+        },
+        {
+          "hi-tech": [
+            {
+              "Would you like a movie to feature?": [
+                "virtual reality escapade",
+                "bioengineering and genetic manipulation"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "tech-enhanced vigilante or superhero",
+                "advanced gadjets and futuristic technology"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "time travel sci-fi": [
+            {
+              "Would you like a movie to feature?": [
+                "altering the past",
+                "time travel paradox"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "time travel paradox",
+                "multiverse and parallel timelines"
+              ]
+            }
+          ]
+        },
+        {
+          "parallel universe/multiverse": [
+            {
+              "Would you like a movie to feature?": [
+                "portal to alternate realities",
+                "multiverse threat and convergence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie about an apocalyptic end of the world?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "ai/robots take over of the world",
+                "nuclear fallout"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie featuring dystopia and cyperpunk worlds?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "cyberpunk world",
+                "post apocalyptic world"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "totalitarian regime",
+                "corporate control and mega corporations"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "thriller": [
+    {
+      "Would you like a movie to feature?": [
+        {
+          "supernatural thriller": [
+            {
+              "Would you like a movie to feature?": [
+                "supernatural detective/investigator",
+                "haunted house/location"
+              ]
+            }
+          ]
+        },
+        {
+          "man vs. nature": [
+            {
+              "Would you like a movie to feature?": [
+                "animal threats in the wild",
+                "man vs. ocean or sea"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "isolation in extreme environments",
+                "survival in the wilderness"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature?": [
+        {
+          "legal thriller": [
+            {
+              "Would you like a movie to feature?": [
+                "legal investigation",
+                "wrongful conviction"
+              ]
+            },
+            {
+              "Would you like a movie legal thriller featuring societal issues ?": [
+                "Yes",
+                "No"
+              ]
+            },
+            {
+              "Would you like a movie about financial/corporate institutions?": [
+                "Yes",
+                "No"
+              ]
+            }
+          ]
+        },
+        {
+          "political thriller": [
+            {
+              "Would you like a movie to feature?": [
+                "political corruption",
+                "political power struggles"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Would you like a psychological thriller?": [
+        {
+          "psychological thriller": [
+            {
+              "Would you like a movie to feature?": [
+                "haunted past and trauma",
+                "identity crisis"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "paranoia and suspicion",
+                "mind games and manipulation"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "unreliable narrator",
+                "reality distortion and alternate realities"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a thrilling movie featuring a conspiracy?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature?": [
+                "secret agency conspiracy",
+                "terrorism"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "journalistic investigation",
+                "relatives conspiring against each other"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "government cover up",
+                "corporate conspiracy"
+              ]
+            },
+            {
+              "Would you like a movie to feature?": [
+                "political assassination",
+                "global conspiracy"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ],
+  "western": [
+    {
+      "Would you like a movie to feature outlaws and sheriffs?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature one of these?": [
+                "sheriffs personal journey",
+                "outlaw gang",
+                "showdown in a lawless town"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a movie to feature frontier and manifest destiny?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature one of these themes?": [
+                "frontier survival",
+                "conflict with native americans",
+                "native american heroes and leaders"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    },
+    {
+      "Would you like a modern/revisionist western?": [
+        {
+          "Yes": [
+            {
+              "Would you like a movie to feature one of these themes?": [
+                "modern day cowboy or rancher",
+                "deconstruction of western tropes",
+                "historical realism and gritty portrayals"
+              ]
+            }
+          ]
+        },
+        {
+          "No": []
+        }
+      ]
+    }
+  ]
+}

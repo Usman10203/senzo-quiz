@@ -1,0 +1,86 @@
+{
+	"info": {
+		"_postman_id": "7a8eb36b-57cc-41ac-8517-fbb07a47f7fd",
+		"name": "Sennzo_Quiz_APIs_by_Farhan",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31512222"
+	},
+	"item": [
+		{
+			"name": "startQuiz",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/start_quize",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"start_quize"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "recommendation",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Genres\": [1],\n    \"SubGenres\": [1],\n    \"PlotTypes\": [1]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/recommendation",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"recommendation"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getQuizWithID",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/load_quize/1",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"load_quize",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
