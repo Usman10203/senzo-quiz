@@ -3,6 +3,10 @@
 from flask import Flask,jsonify , request
 import sqlite3
 from flask_cors import CORS
+import os
+
+# Ensure db_file is defined globally
+db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
 
 
 app = Flask(__name__)
