@@ -12,26 +12,26 @@ from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 app.json.sort_keys = False
 CORS(app)
-def execute_query(query):
-    conn = sqlite3.connect(db_file)
-    if not conn:
-        raise Exception("Connection not established. Call connect() method first.")
+# def execute_query(query):
+#     conn = sqlite3.connect(db_file)
+#     if not conn:
+#         raise Exception("Connection not established. Call connect() method first.")
     
-    cursor = conn.cursor()
-    cursor.execute(query)
-    result_set = cursor.fetchall()
-    conn.close()
-    return result_set
+#     cursor = conn.cursor()
+#     cursor.execute(query)
+#     result_set = cursor.fetchall()
+#     conn.close()
+#     return result_set
 
-db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
-print(f"Database file path: {db_file}")
-print(f"Does DB file exist? {os.path.exists(db_file)}")
+# db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
+# print(f"Database file path: {db_file}")
+# print(f"Does DB file exist? {os.path.exists(db_file)}")
 
 
-# db_file = os.path.join(os.path.dirname(__file__),  'SenzoQuizAppDB20feb2024')
-# app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_file}'
+db_file = os.path.join(os.path.dirname(__file__),  'SenzoQuizAppDB20feb2024')
+app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_file}'
 
-# db = SQLAlchemy(app)
+db = SQLAlchemy(app)
 
 def execute_query(query):
     try:
