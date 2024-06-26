@@ -1,12 +1,12 @@
 #python app.py
-
+import os
 from flask import Flask,jsonify , request
 import sqlite3
 from flask_cors import CORS
-import os
+from flask_sqlalchemy import SQLAlchemy
 
 # Ensure db_file is defined globally
-db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
+
 
 
 app = Flask(__name__)
@@ -22,6 +22,17 @@ CORS(app)
 #     result_set = cursor.fetchall()
 #     conn.close()
 #     return result_set
+
+# db_file = os.getenv('DB_FILE', 'SenzoQuizAppDB20feb2024.db')
+# print(f"Database file path: {db_file}")
+# print(f"Does DB file exist? {os.path.exists(db_file)}")
+
+
+db_file = os.path.join(os.path.dirname(__file__),  'SenzoQuizAppDB20feb2024')
+app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_file}'
+
+db = SQLAlchemy(app)
+
 def execute_query(query):
     try:
         conn = sqlite3.connect(db_file)
@@ -243,5 +254,5 @@ def get_genre_subgenre_plottype():
 
 
 if __name__ == '__main__':
-    db_file
+    # db_file = r"D:\Senzoo\senzo-frontend\SenzoQuizAppDB20feb2024"
     app.run(debug=True)
